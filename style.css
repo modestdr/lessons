@@ -1,0 +1,34 @@
+.header {
+  background-color: #AAAAAA;
+  height: 50px;
+  
+  padding: 20px;
+  
+} 
+
+.navigation-bar {
+	background-color: #999;
+	height: 25px;
+	
+	padding: 10px;
+}
+
+.content {
+	background-color: #EEEEEE;
+	height: 150px;
+	
+	padding: 70px;
+}
+
+.footer {
+	background-color: #AAAAAA;
+	height: 40px;
+	padding: 20px;
+}
+
+div {
+	text-align: center; 
+	margin-bottom: 10px;
+	font-size: 24px;
+	font-weight: bold;
+}
